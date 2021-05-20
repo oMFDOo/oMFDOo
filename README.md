@@ -35,6 +35,7 @@
 | 06.07 ~ 11.06 | 제8회 K-해커톤 실감콘텐츠 앱 개발 챌린지 - <u>한국콘텐츠학회장상</u> : <br> '우리아이 안전 걸음맵' 안드로이드 개발 | [PlayStore](https://play.google.com/store/apps/details?id=kr.co.woobi.tomorrow99.safewalk)<br>[상장사진](./image/K해커톤.jpg)<br>[대회포스터](./image/K해커톤_포스터.jpg) |
 | 08.12 ~ 09.27 | '유림 아이엔에스' 사용자/관리자 페이지 외주 | [외주](http://directfyou.com/index-prev.php) |
 | **🚩 2020** |||
+| 11.12 | TRIZ Level 1 인증과정 수료 ||
 | 03.01 ~  | 나님! 개발의 세계에 입주! 입학을 축하해! ||
 | **🚩 2019** |||
 
