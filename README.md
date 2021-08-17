@@ -26,6 +26,7 @@
 
 | 기간 | 활동내역 | 비고 |
 | ---- | ------ | :--: |
+| 06.01 ~ 12.31 | SSI DID 블록체인 기술 개발 |  |
 | 08.01 ~ 08.31 | DoD 봉사동아리 - 4차산업혁명 교육영상 제작 |[제작영상](https://youtube.com/playlist?list=PL_EUs7v9rr-q252fzBNTqPsU5ADrj1PKJ)|
 | 07.20 ~ 07.23 | DoD 봉사동아리 - 부곡여자중학교 교육봉사 | [활동영상](https://youtu.be/kM74zNLaopc) |
 | 04.02 ~ 05.13 | 누리아이엔에스 웹 외주 프론트 작성 | [외주](http://directfyou.com/) |
