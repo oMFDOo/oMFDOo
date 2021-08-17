@@ -37,7 +37,7 @@
 | 10.17 ~ 10.20| 행복기숙사 자가진단 자동화 셀레니움 코드 작성 | [관련코드](https://github.com/Piorosen/github-Action-HangKik)
 | 06.07 ~ 11.06 | 제8회 K-해커톤 실감콘텐츠 앱 개발 챌린지 - <u>한국콘텐츠학회장상</u> : <br> '우리아이 안전 걸음맵' 안드로이드 개발 | [PlayStore](https://play.google.com/store/apps/details?id=kr.co.woobi.tomorrow99.safewalk)<br>[설명영상](https://youtu.be/dC_U7Kn4P38)<br>[상장사진](./image/K해커톤.jpg)<br>[대회포스터](./image/K해커톤_포스터.jpg) |
 | 08.12 ~ 09.27 | '유림 아이엔에스' 사용자/관리자 페이지 외주 | [외주](http://directfyou.com/index-prev.php) |
-| 2020.07.31 ~ 2021.05.31 | 해양시추장비 통합 운용제어시스템 및 HILS 기반 검증시스템 개발<br>(CS인증을 위한 스파이스 문서 작성 및 UI 디자인) | [국가R&D과제정보](https://www.ntis.go.kr/project/pjtInfo.do?pjtId=1415169534&pageCode=TH_MYPJT_PJT_DTL) |
+| 20.07.31 ~ 21.05.31 | 해양시추장비 통합 운용제어시스템 및 HILS 기반 검증시스템 개발<br>(CS인증을 위한 스파이스 문서 작성 및 UI 디자인) | [국가R&D과제정보](https://www.ntis.go.kr/project/pjtInfo.do?pjtId=1415169534&pageCode=TH_MYPJT_PJT_DTL) |
 | **🚩 2020** |||
 | 11.12 | TRIZ Level 1 인증과정 수료 | [수료사진](./image/트리즈.jpg) |
 | 03.01 ~  | 나님! 개발의 세계에 입주! 입학을 축하해! | [인생 첫 코딩 문제](http://www.ascode.org/problem.php?id=1000) |
