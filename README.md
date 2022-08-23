@@ -33,7 +33,7 @@
 | 11.04 ~ 11.26 | 부산권 연합 2021 라이브커머스 경진대회 | [수상결과](./image/2021_라이브커머스_수상결과.png) |
 | 11.05 ~ 11.06 | 희망 play 취업 Job Go 캠프 포트폴리오 경진대회 (대상) ||
 | 11.04 ~ 11.26 | 동의대학교 2021 통합성과경진대회 (장려상) | [대회영상](https://youtu.be/ww7axGt4mvQ?t=365) |
-| 10.01 ~ 11.16 | ACK 2021 추계학술대회, "블록체인 기반 자기주권 신원 시스템의 영지식 증명 기술 연구" 논문 작성 | [학술대회](https://www.manuscriptlink.com/society/kips/conference/ack2021) </br>[작성논문](https://github.com/oMFDOo/oMFDOo/blob/main/image/KIPS_C2021B0384.pdf) |
+| 10.01 ~ 11.16 | ACK 2021 추계학술대회, </br>"블록체인 기반 자기주권 신원 시스템의 영지식 증명 기술 연구" 논문 작성 | [학술대회](https://www.manuscriptlink.com/society/kips/conference/ack2021) </br>[작성논문](https://github.com/oMFDOo/oMFDOo/blob/main/image/KIPS_C2021B0384.pdf) |
 | 10.01 ~ 10.02 | 4C 블렌디드 융합 프로그램 MIX (우수상) |  |
 | 08.01 ~ 08.31 | DoD 봉사동아리 - 4차산업혁명 교육영상 제작 |[제작영상](https://youtube.com/playlist?list=PL_EUs7v9rr-q252fzBNTqPsU5ADrj1PKJ)|
 | 06.01 ~ 12.31 | SSI DID 블록체인 기술 개발 연구과제  |  |
