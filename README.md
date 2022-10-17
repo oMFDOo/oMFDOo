@@ -31,7 +31,7 @@
 | 07.01 ~ 08.31 | 인공지능 학회 : 최적 환경 제어를 위한 LSTM 기반 시간 단위 환경 변화량 예측 시스템 |  |
 | 07.01 ~ 08.31 | 인공지능 학회 : 스마트 공간의 쾌적도 관리를 위한 통합 장치제어 시스템 설계 |  |
 | 07.01 ~ 08.31 | 한국전자통신원(ETRI) 자율형 IoT 연구실 하계 인턴 |  |
-|| 장학생 토크 콘서트 |[온라인발표](https://www.youtube.com/watch?v=hD96mIKbANE&list=PLGCYZ7Vn7mrapCsGtNvJ7ap0v7LcK-6fz&t=40s) <br> [오프라인발표](https://computer.deu.ac.kr/asw/sub06_04.do?mode=view&articleNo=14590&article.offset=0&articleLimit=12)|
+|| 장학생 토크 콘서트 |[발표영상](https://www.youtube.com/watch?v=hD96mIKbANE&list=PLGCYZ7Vn7mrapCsGtNvJ7ap0v7LcK-6fz&t=40s) <br> [활동사진](https://computer.deu.ac.kr/asw/sub06_04.do?mode=view&articleNo=14590&article.offset=0&articleLimit=12)|
 | **🚩 2022** | ▲ 대학교 4학년 | <br><br> |
 | 11.10 ~ 12.31 | 레벤그리다 UI 외주 디자인 ||
 | 11.18 ~ 11.26 | 부산권 6개 대학 LINC+ 공유대학 초니치개인화마케팅 캠프 (최우수상) ||
