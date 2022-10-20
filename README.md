@@ -13,6 +13,8 @@
 현재는 DIDComm에 관한 공부에 집중하고 있습니다.<br>
 언젠가는 멋쟁이 개발자가 될 거라 믿어 의심치 않습니다!<br>
 
+E-mail : jinjoo021@naver.com
+	
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FoMFDOo&count_bg=%2336AFFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
