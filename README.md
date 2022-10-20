@@ -33,13 +33,13 @@
 | 07.01 ~ 08.31 | 한국전자통신원(ETRI) 자율형 IoT 연구실 하계 인턴 |  |
 | 04.11 ~ 06.10| 장학생 토크 콘서트 |[발표영상](https://www.youtube.com/watch?v=hD96mIKbANE&list=PLGCYZ7Vn7mrapCsGtNvJ7ap0v7LcK-6fz&t=40s) <br> [활동사진](https://computer.deu.ac.kr/asw/sub06_04.do?mode=view&articleNo=14590&article.offset=0&articleLimit=12)|
 | **🚩 2022** | ▲ 대학교 4학년 | <br><br> |
-| 11.10 ~ 12.31 | 레벤그리다 UI 외주 디자인 ||
-| 11.18 ~ 11.26 | 부산권 6개 대학 LINC+ 공유대학 초니치개인화마케팅 캠프 (최우수상) ||
+| 11.10 ~ 12.31 | 레벤그리다 UI 외주 디자인 |[공개전](https://www.instagram.com/p/CdVb1cwpwBI/?utm_source=ig_web_copy_link)|
+| 11.18 ~ 11.26 | 부산권 6개 대학 LINC+ 공유대학 초니치개인화마케팅 캠프 (최우수상) |[수상사진](./image/초개인화_수상사진.jpg)|
 | 11.04 ~ 11.26 | 부산권 연합 2021 라이브커머스 경진대회 | [수상결과](./image/2021_라이브커머스_수상결과.png) |
-| 11.05 ~ 11.06 | 희망 play 취업 Job Go 캠프 포트폴리오 경진대회 (대상) ||
+| 11.05 ~ 11.06 | 희망 play 취업 Job Go 캠프 포트폴리오 경진대회 (대상) |[수상사진](./image/KakaoTalk_20211210_003002569_07.jpg)|
 | 11.04 ~ 11.26 | 동의대학교 2021 통합성과경진대회 (장려상) | [대회영상](https://youtu.be/ww7axGt4mvQ?t=365) |
 | 10.01 ~ 11.16 | ACK 2021 추계학술대회, </br>"블록체인 기반 자기주권 신원 시스템의 영지식 증명 기술 연구" 논문 작성 | [학술대회](https://www.manuscriptlink.com/society/kips/conference/ack2021) </br>[작성논문](https://github.com/oMFDOo/oMFDOo/blob/main/image/KIPS_C2021B0384.pdf) |
-| 10.01 ~ 10.02 | 4C 블렌디드 융합 프로그램 MIX (우수상) |  |
+| 10.01 ~ 10.02 | 4C 블렌디드 융합 프로그램 MIX (우수상) | [수상사진](/image/블랜디드%20융합%20프로그램_활동사진.jpg) |
 | 08.01 ~ 08.31 | DoD 봉사동아리 - 4차산업혁명 교육영상 제작 |[제작영상](https://youtube.com/playlist?list=PL_EUs7v9rr-q252fzBNTqPsU5ADrj1PKJ)|
 | 06.01 ~ 12.31 | SSI DID 블록체인 기술 개발 연구과제  |  |
 | 07.20 ~ 07.23 | DoD 봉사동아리 - 부곡여자중학교 교육봉사 | [활동영상](https://youtu.be/kM74zNLaopc) |
