@@ -44,12 +44,12 @@
 | 06.01 ~ 12.31 | SSI DID 블록체인 기술 개발 연구과제  |  |
 | 07.20 ~ 07.23 | DoD 봉사동아리 - 부곡여자중학교 교육봉사 | [활동영상](https://youtu.be/kM74zNLaopc) |
 | 04.02 ~ 05.13 | 누리아이엔에스 웹 외주 프론트 작성 | [외주](http://directfyou.com/) |
-| 02.02 ~ 02.04 | 가치공유취업패키지 친구와 맞잡기 프로젝트  - <u>특별상</u> | [대회포스터](./image/친구와맞잡기프로젝트.png) |
+| 02.02 ~ 02.04 | 가치공유취업패키지 친구와 맞잡기 프로젝트  - <u>특별상</u> | [포스터](./image/친구와맞잡기프로젝트.png) |
 | 01.29 ~ 01.29 | 2020학년도 창업 지적재산권 온라인 페스티벌 - <u>우수상</u> | [대회사진](./image/지재권페스티벌_포스터.png)<br>[수상팀](./image/지재권페스티벌.png) |
 | **🚩 2021** | ▲ 대학교 3학년 | <br><br> |
-| 11.26 ~ 11.27 | 크라우드 테스팅 경진대회 - <u>우수상</u> | [상장사진](./image/클라우딩.jpg)<br>[대회포스터](./image/크라우드테스팅경진대회.jpg)<br>[대회사진](./image/크라우드테스팅경진대회_대회사진.jpg)|
+| 11.26 ~ 11.27 | 크라우드 테스팅 경진대회 - <u>우수상</u> | [상장사진](./image/클라우딩.jpg)<br>[포스터](./image/크라우드테스팅경진대회.jpg)<br>[대회사진](./image/크라우드테스팅경진대회_대회사진.jpg)|
 | 10.17 ~ 10.20| 행복기숙사 자가진단 자동화 셀레니움 코드 작성 | [관련코드](https://github.com/Piorosen/github-Action-HangKik)
-| 06.07 ~ 11.06 | 제8회 K-해커톤 실감콘텐츠 앱 개발 챌린지 - <u>한국콘텐츠학회장상</u> : <br> '우리아이 안전 걸음맵' 안드로이드 개발 | [PlayStore](https://play.google.com/store/apps/details?id=kr.co.woobi.tomorrow99.safewalk)<br>[설명영상](https://youtu.be/dC_U7Kn4P38)<br>[상장사진](./image/K해커톤.jpg)<br>[대회포스터](./image/K해커톤_포스터.jpg) |
+| 06.07 ~ 11.06 | 제8회 K-해커톤 실감콘텐츠 앱 개발 챌린지 - <u>한국콘텐츠학회장상</u> : <br> '우리아이 안전 걸음맵' 안드로이드 개발 | [PlayStore](https://play.google.com/store/apps/details?id=kr.co.woobi.tomorrow99.safewalk)<br>[설명영상](https://youtu.be/dC_U7Kn4P38)<br>[상장사진](./image/K해커톤.jpg)<br>[포스터](./image/K해커톤_포스터.jpg) |
 | 08.12 ~ 09.27 | '유림 아이엔에스' 사용자/관리자 페이지 외주 | [외주](http://directfyou.com/index-prev.php) |
 | 20.07.31 ~ 21.05.31 | 해양시추장비 통합 운용제어시스템 및 HILS 기반 검증시스템 개발<br>(CS인증을 위한 스파이스 문서 작성 및 UI 디자인) | |
 | **🚩 2020** | ▲ 대학교 2학년 | <br><br> |
