@@ -8,6 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oMFDOo&show_icons=true&theme=radical)
 
+
 공부 방향성을 잡아가고 있는 개발자 꿈나무입니다.<br>
 여러가지 건드려가며 공부하고 있지만,<br>
 현재는 앞으로 나아갈 인생에 관한 공부에 집중하고 있습니다.<br>
@@ -25,6 +26,10 @@ E-mail : jinjoo021@naver.com
 <br>
 
 # 📚 수상 및 활동내역
+
+<div style="display: flex">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=oMFDOo&no-bg=true&column=7&theme=darkhub" />
+</div>
 
 | 기간 | 구분 | 활동내역 | 비고 |
 | :---: | :---: | ------ | :--: |
