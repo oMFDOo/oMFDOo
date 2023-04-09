@@ -27,10 +27,6 @@ E-mail : jinjoo021@naver.com
 
 # 📚 수상 및 활동내역
 
-<div style="display: flex">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=oMFDOo&no-bg=true&column=7&theme=darkhub" />
-</div>
-
 | 기간 | 구분 | 활동내역 | 비고 |
 | :---: | :---: | ------ | :--: |
 | 02.08 ~ 02.08 | 논문 | 2023년 한국통신학회 동계종합학술발표회 : BBS+ 서명을 이용한 선택적 공개 과정의 검증에 대한 연구 | [논문](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/2023w/abs/0461-LJNFP.pdf) |
