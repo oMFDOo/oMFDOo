@@ -14,6 +14,7 @@
 언젠가는 멋쟁이 개발자가 될 거라 믿어 의심치 않습니다!<br>
 
 E-mail : jinjoo021@naver.com
+Blog : https://mfdo.tistory.com/
 	
 <br>
 
