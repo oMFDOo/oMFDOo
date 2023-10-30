@@ -13,7 +13,7 @@
 현재는 기본기 강화에 집중하고 있습니다!<br>
 언젠가는 멋쟁이 개발자가 될 거라 믿어 의심치 않습니다!<br>
 
-E-mail : jinjoo021@naver.com
+E-mail : jinjoo021@naver.com <br>
 Blog : https://mfdo.tistory.com/
 	
 <br>
