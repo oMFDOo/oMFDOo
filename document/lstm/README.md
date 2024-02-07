@@ -74,13 +74,13 @@ LSTM을 기반으로 하여 온도, 습도, 기압을 예측해줍니다.
  </span>
 
  
- |대상|기능|정의 장소|
- |:--:|:-------|:----:|
- |Unity|실시간 데이터 수신 <br>희망 환경 값 설정 <br>현재 환경에 대한 제어값 추천 <br>현재 환경에 대한 미래 예측| [/Unity](https://github.com/etri-summer-Intern/Unity)|
- |Web|희망 시간을 입력하면 해당 시간에 대한 예측된 온도/습도/기압을 보여줍니다.| [monitoring/project/templates/](https://github.com/etri-summer-Intern/monitoring/tree/main/project/templates) |
- |Python|각 API에 대해 테스트 할 수 있습니다.| [monitoring/client/](https://github.com/etri-summer-Intern/monitoring/tree/main/client) |
+ |대상|기능|
+ |:--:|:-------|
+ |Unity|실시간 데이터 수신 <br>희망 환경 값 설정 <br>현재 환경에 대한 제어값 추천 <br>현재 환경에 대한 미래 예측|
+ |Web|희망 시간을 입력하면 해당 시간에 대한 예측된 온도/습도/기압을 보여줍니다.|
+ |Python|각 API에 대해 테스트 할 수 있습니다.|
  
- - python 클라이언트 구동법은 [여기](https://github.com/etri-summer-Intern/monitoring/blob/main/doc/client.md)에서 확인하실 수 있습니다.
+ - python 클라이언트 구동법은 [여기](./doc/client.md)에서 확인하실 수 있습니다.
 
 <br><br><br>
 
@@ -96,7 +96,7 @@ LSTM을 기반으로 하여 온도, 습도, 기압을 예측해줍니다.
 |MariaDB| 192.168.0.5:3306 | 실시간 센서 데이터 저장(학습 및 실시간 데이터 전송에 이용) |  |
 |Unity| 192.168.0.4 | 환경제어를 위한 클라이언트 | |
 
- - Flask 웹 서버 구동법은 [여기](https://github.com/etri-summer-Intern/monitoring/blob/main/doc/server.md)에서 확인하실 수 있습니다.
+ - Flask 웹 서버 구동법은 [여기](./doc/server.md)에서 확인하실 수 있습니다.
 
 <br><br><br>
 
@@ -117,7 +117,7 @@ LSTM을 기반으로 하여 온도, 습도, 기압을 예측해줍니다.
 |Post|/setEnv|{ "temperature" : 희망 온도, "humidity" : 희망 습도, "illuminance" : 희망 조도, "errorT" : 온도 허용 오차, "errorH" : 습도 허용 오차} | "ok" | 희망 환경(온도/습도/조도)과 해당 환경의 허용오차(온도/습도)를 설정. 조도는 켜짐/꺼짐으로 구분되어 오차 없음. |
 |Post|/getControl| x | { "controlT": 더운 정도, "controlH": 습한 정도, "controlI": 조명 꺼짐/켜짐, "stateT": 온도 제어값, "stateH": 습도 제어값, "stateI": 조도 제어값, } | 현재 환경에 대한 제어값 반환, 값의 의미는 아래 문서 참조 |
 
- - 정의된 RESTAPI는 [여기](https://github.com/etri-summer-Intern/monitoring/blob/main/doc/restAPI.md)에서 확인하실 수 있습니다.
+ - 정의된 RESTAPI는 [여기](./doc/restAPI.md)에서 확인하실 수 있습니다.
  
 
 <br><br><br><hr><br><br><br>
