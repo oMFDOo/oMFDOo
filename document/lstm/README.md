@@ -2,7 +2,7 @@
 LSTM을 기반으로 하여 온도, 습도, 기압을 예측해줍니다.
 
 ### 데이터 흐름도
-<img src="./%20src/network.png" style="width : 1000px;">
+<img src="./src/network.png" style="width : 1000px;">
 
 ## 목차
  <br>
@@ -67,9 +67,9 @@ LSTM을 기반으로 하여 온도, 습도, 기압을 예측해줍니다.
  
  <span>
  
- <img src="./%20src/unity.PNG" style="width : 400px;">
- <img src="./%20src/client_demo_2.png" style="width : 200px;">
- <img src="./%20src/client_demo_3.png" style="width : 200px;">
+ <img src="./src/unity.PNG" style="width : 400px;">
+ <img src="./src/client_demo_2.png" style="width : 200px;">
+ <img src="./src/client_demo_3.png" style="width : 200px;">
 
  </span>
 
@@ -140,8 +140,8 @@ LSTM을 기반으로 하여 온도, 습도, 기압을 예측해줍니다.
 
 <span>
 
-<img src="./%20src/data_flow.png" style="width : 400px;">
-<img src="./%20src/db_data.png" style="width : 400px;">
+<img src="./src/data_flow.png" style="width : 400px;">
+<img src="./src/db_data.png" style="width : 400px;">
 
 </span>
 
@@ -154,7 +154,7 @@ LSTM을 기반으로 하여 온도, 습도, 기압을 예측해줍니다.
 ### 모델 학습 과정 
  |1시간 후를 예측하는 모델 제작|3시간 후를 예측하는 모델 제작|
  |:--:|:--:|
- | <img src="./%20src/1hour_Model.png" style="width : 350px;"> | <img src="./%20src/3hour_Model.png" style="width : 350px;"> |
+ | <img src="./src/1hour_Model.png" style="width : 350px;"> | <img src="./src/3hour_Model.png" style="width : 350px;"> |
  | - 1시간 간격을 가진 데이터로 학습 <br> - 학습된 모델에 200개의 1시간 간격 데이터로 예측 결과 도출 | - 1시간 간격을 가진 데이터로 학습 <br> - 학습된 모델에 200개의 3시간 간격 데이터로 예측 결과 도출 |
  
  <br> <br> <br>
@@ -179,7 +179,7 @@ LSTM을 기반으로 하여 온도, 습도, 기압을 예측해줍니다.
   <br> <br> <br>
  
 ### Q. 학습데이터와 예측 데이터에 시간 간격은 왜 두었는가?
-<img src="./%20src/performanceTable.png" style="width : 600px;">
+<img src="./src/performanceTable.png" style="width : 600px;">
 
  - **학습** : [1시간 간격 데이터] -> 모델 => 1시간 특징 학습 모델
    - **예측** : [1시간, 2시간, 4시간, 8시간 간격 데이터] 1시간 학습모델
@@ -197,7 +197,7 @@ LSTM을 기반으로 하여 온도, 습도, 기압을 예측해줍니다.
   <br> <br> <br>
  
 ### Q. 성능은 어떤가?
-<img src="./%20src/performance.png" style="width : 600px;">
+<img src="./src/performance.png" style="width : 600px;">
 
 오른쪽 그래프는 예측 모델에 따른 예측 데이터와 실제 데이터를 비교한 그래프입나다. <br>
 위의 세 그래프는 1시간 간격의 데이터를, 아래 3개의 그래프는 8시간 간격의 데이터를 학습한 경우를 보입니다. <br>
@@ -206,8 +206,8 @@ LSTM을 기반으로 하여 온도, 습도, 기압을 예측해줍니다.
 
   <br> <br> <br>
 
-<img src="./%20src/predictionFlow.png" style="width : 400px;">
-<img src="./%20src/LSTM.png" style="width : 400px;">
+<img src="./src/predictionFlow.png" style="width : 400px;">
+<img src="./src/LSTM.png" style="width : 400px;">
 
 
  <br> <br> <br> <br> <br>
